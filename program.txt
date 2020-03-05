@@ -1,4 +1,0 @@
-1 : get job
-2 : buy frame
-3 : create invitation card.
-4 : buy saree
